@@ -9,6 +9,7 @@ export default function Document() {
                 <meta name="description" content="gradient background" />
                 <link rel="icon" href="/favicon.ico" />
                 <link rel="stylesheet" href="/tailwind.min.css"/>
+                <link rel="stylesheet" href="/bootstrap.css"/>
             </Head>
 
             <body>
