@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <React.Fragment>
 
-            <div className='flex justify-between border-b p-5'>
+            <div className='flex justify-between border-b p-4'>
 
                 <a href="#" rel="" className='font-bold'>
                     <span>
