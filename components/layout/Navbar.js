@@ -8,11 +8,11 @@ const Navbar = () => {
 
             <div className='flex justify-between border-b p-5'>
 
-                <a href="#" rel="">
+                <a href="#" rel="" className='font-bold'>
                     <span>
-                        <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={14} />
+                        <Image src="/gradientb.png" alt="BradientB Logo" width={18} height={14} />
                     </span>
-                    {' '}GradienB
+                    {' '}GradientB
                 </a>
 
                 <nav>

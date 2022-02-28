@@ -52,7 +52,7 @@ export default function Home(){
                 </div>
                 {/* <div className="hidden xm:block"> */}
                     <div className="bg-red-400 p-3 m-3 rounded font-semibold grid justify-items-center md:hidden">
-                        <span>Oops Gradientbg!!!</span>
+                        <span>Oops GradientB!!!</span>
                         <span>not available on mobile view</span><br></br>
                         <span>switch to Desktop mode to view</span>
                     </div>

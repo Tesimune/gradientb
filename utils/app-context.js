@@ -8,7 +8,7 @@ const AppContextProvider = (props) => {
 
     const [state, setState] = useState({
         openModal: false,
-        html: "<div class='nav'> <a href='#' class='icon'> <span> <Image src='/vercel.svg' alt='Vercel Logo' width='72' height='14' /> </span> <b class='mx-1'>GradienB</b> </a> <nav> <ul class='li'> <a href='#templates'><li class='mx-1'>Templates</li></a> <a href='#about'><li class='mx-1'>About</li></a> <li class='mx-1'>FAQ</li> </ul> </nav> </div><style> .icon{ display: flex; } .nav{ display: flex; justify-content: space-between; padding: 20px; border-bottom-width:1px ; } .li{ display: flex; text-transform: uppercase; font-weight: 600; } .mx-1{margin-left: 4px; margin-right: 4px;}</style>",
+        html: "<div class='nav'> <a href='#' class='icon'> <span> <Image src='/gradientb.png' alt='GradientB Logo' width='18' height='14' /> </span> <b class='mx-1'>GradienB</b> </a> <nav> <ul class='li'> <a href='#templates'><li class='mx-1'>Templates</li></a> <a href='#about'><li class='mx-1'>About</li></a> <li class='mx-1'>FAQ</li> </ul> </nav> </div><style> .icon{ display: flex; } .nav{ display: flex; justify-content: space-between; padding: 20px; border-bottom-width:1px ; } .li{ display: flex; text-transform: uppercase; font-weight: 600; } .mx-1{margin-left: 4px; margin-right: 4px;}</style>",
         bg: {
             topRight: "#00fadd",
             topLeft: "#07b4ed",

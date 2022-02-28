@@ -5,8 +5,8 @@ export default function Document() {
         <Html>
 
             <Head>
-                <title>GradientBG</title>
-                <meta name="description" content="gradient generator" />
+                <title>GradientB</title>
+                <meta name="description" content="gradient background" />
                 <link rel="icon" href="/favicon.ico" />
                 <link rel="stylesheet" href="/tailwind.min.css"/>
             </Head>

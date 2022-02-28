@@ -17,12 +17,11 @@ export function generateGradient(){
     const colors = generateColors(3);
     const bgs = [
         `linear-gradient(140deg, ${colors[0]} 0%, ${colors[1]} 50%, ${colors[2]} 75%)`,
-        // `radial-gradient(140deg,  10%,  30%,  15%)`
-        `radial-gradient(circle, ${colors[0]} 0%, ${colors[2]} 100%)`
+        // `radial-gradient(circle, ${colors[0]} 0%, ${colors[2]} 100%)`
     ];
 
-    console.log(bgs[Math.floor(Math.random() * 2)])
-    return bgs[Math.floor(Math.random() * 2)]
+    // return bgs[Math.floor(Math.random() * 2)]
+    return bgs[0];
 }
 
 export function generateGradients(count){
