@@ -1,3 +1,7 @@
+Gradient Background
+
+
+
 Introduction
 Gradient Background (GradientB) is a web platform with a free tool that lets you create a gradient background for websites. The site is also filled with custom colorful gradients from technical web gradient to gradient examples like Stripe, Instagram, and many more.
 
@@ -13,7 +17,7 @@ Unlike other gradient sites, applications, or platforms. GradientB is packed wit
 
 
 [Visit GradientB](https://gradientb.netlify.app/)
-[Github](https://github.com/Tesimune/gradientbg)
+[Github](https://github.com/Tesimune/gradientb)
 
 GradientB stack
 •	HTML CSS JavaScript
